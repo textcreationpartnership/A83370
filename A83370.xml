@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition and articles or severall charge exhibited in Parliament against Edward Finch vicar of Christs Church in London, and brother to Sir Iohn Finch, late Lord Keeper, now a fugitive for fear of this present Parliament, 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83370</idno>
+            <idno type="STC">Wing E2157</idno>
+            <idno type="STC">Thomason E166_12</idno>
+            <idno type="STC">ESTC R16294</idno>
+            <idno type="EEBO-CITATION">99860009</idno>
+            <idno type="PROQUEST">99860009</idno>
+            <idno type="VID">156988</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156988)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E166[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition and articles or severall charge exhibited in Parliament against Edward Finch vicar of Christs Church in London, and brother to Sir Iohn Finch, late Lord Keeper, now a fugitive for fear of this present Parliament, 1641.</title>
+               </titleStmt>
+               <extent>[2], 14 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Sould by R. Harford at the signe of the Bible in Queens-head Alley in Paternoster-row,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finch, Edward, d. 1642? --  Early works to 1800.</term>
+               <term>Church of England --  Clergy --  Degradation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156988:1" rendition="simple:additions"/>
+            <p>The Petition and Articles or ſeverall Charge exhibited in
+<hi>Parliament</hi> againſt <hi>Edward Finch</hi> Vicar of <hi>Christs Church</hi> in <hi>London,</hi> and brother to Sir <hi>Iohn Finch,</hi> late
+<hi>Lord Keeper,</hi> now a Fugitive for fear of this preſent
+<hi>Parliament,</hi> 1641.</p>
+            <q>
+               <p>Therefore the ſin of the young men was very great before the Lord, for men abhorred the offerings of the Lord.</p>
+               <bibl>
+                  <hi>1 Sam. 2.17.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Thus ſaith the Lord, I come against the Shepheards, and will require my Sheep at their hands, and cauſe them to ceaſe from feeding the Sheep; nei<g ref="char:EOLhyphen"/>ther ſhall the Shepheards feed themſelves any more, for I will deliver my Sheep from their mouthes, and they ſhall no more devour them.</p>
+               <bibl>
+                  <hi>Ezek. 34.10.</hi>
+               </bibl>
+            </q>
+            <figure>
+               <head>Ed: Finch his Perambulations</head>
+               <sp>
+                  <p>away for hamerſmith</p>
+               </sp>
+               <figDesc>a priest, with open book in hand, walks after three men, who walk after a coach and horses. A crowd follow them and a man looks on from a inn window.</figDesc>
+            </figure>
+            <p>LONDON, Sould by <hi>R. Harford</hi> at the Signe of the
+<hi>Bible</hi> in <hi>Queens-head Alley</hi> in <hi>Paternoster-row.</hi>
+1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156988:2"/>
+            <pb n="1" facs="tcp:156988:2"/>
+            <head>TO THE HONORABLE THE KNIGHTS, CITI<g ref="char:EOLhyphen"/>ZENS AND BVRGESSES OF the
+<hi>Commons</hi> Houſe of <hi>Parliament.</hi>
+            </head>
+            <head type="sub">The humble Petition of the Pariſhioners of the Pariſh of <hi>Christs Church,</hi> in <hi>London,</hi>
+            </head>
+            <opener>Moſt humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Maſter <hi>Edward Finch,</hi> Vicar of the ſaid Pa<g ref="char:EOLhyphen"/>riſh, having ſet up their Communion Table Al<g ref="char:EOLhyphen"/>tar-wiſe, doth there adminiſter the Sacrament, cauſing all the Communicants to come to the Railes or Formes, and uſeth frequent and unreaſonable bowings before the ſaid Table, in his approach unto it, and returne from it.</p>
+            <p>That he is of evill and ſcandalous life and converſation, not regarding himſelfe to inſtruct the Petitioners ſoules, and hindring them alſo of ſuch helpes as therein they would otherwiſe have, and exacts of them unlawfull and unreaſonable Fees and ſummes of money, as by the annex<g ref="char:EOLhyphen"/>ed Articles may appear,</p>
+            <pb n="2" facs="tcp:156988:3"/>
+            <p>That the Petitioners are troubled in the ſaid Church with ſinging, Organs, and other Inſtruments of Muſicke, not underſtood by them, whereby they are greatly diſtract<g ref="char:EOLhyphen"/>ed in the Service of God, the ſame being altogether unpro<g ref="char:EOLhyphen"/>fitable, and no way tending to their ſpirituall edification.</p>
+            <p>They moſt humbly pray that your Honours will be pleaſed to take the Premiſſes into your grave conſide<g ref="char:EOLhyphen"/>ration, and to grant unto them, ſuch relief therein, as to your great wiſdomes ſhall ſeem meet.</p>
+            <closer>And they ſhall dayly pray, &amp;c.</closer>
+         </div>
+         <div type="articles">
+            <head>The Articles mentioned in the annexed Petition, againſt Maſter <hi>Edward Finch</hi> Vicar of <hi>Christs Church,</hi> in
+<hi>London.</hi>
+            </head>
+            <p n="1">FIrst, that the ſaid Master <hi>Finch</hi> is very officious and ob<g ref="char:EOLhyphen"/>ſervant in worſhipping the great Idoll, lately erected in the ſaid Church, <hi>viz.</hi> the Altar.</p>
+            <p n="2">
+               <hi>2.</hi> That he exacteth ſometimes twenty ſhillings a piece, and ma<g ref="char:EOLhyphen"/>ny times more, for funerall Sermons, himſelfe ſeldom preaching any of them, and affirmeth his Pulpit to be his Shop, and therefore must improve it to the utmost.</p>
+            <p n="3">
+               <hi>3.</hi> That he is very careleſſe and negligent in executing his Pastorall duty, having appeared ſcarce twice in twelve moneths to officiate the ſame, nay not once in a year.</p>
+            <p n="4">
+               <hi>4.</hi> That he ordinarily preacheth in his Surplice.</p>
+            <p n="5">
+               <hi>5.</hi> That he alſo weareth his Surplice in going the perambula<g ref="char:EOLhyphen"/>tion of the Pariſh.</p>
+            <p n="6">
+               <hi>6.</hi> That he hath not for many yeares been reſident in the Pa<g ref="char:EOLhyphen"/>riſh, but lets to farme his Vicaridge-houſe.</p>
+            <pb n="3" facs="tcp:156988:3"/>
+            <p n="7">
+               <hi>7.</hi> That he maketh no conſcience of Oathes, but is a frequent violater of Gods holy Name, by often ſwearing thereby, with fearfull and horrid Imprecations, and Execrations, as was most abundantly proved.</p>
+            <p n="8">
+               <hi>8.</hi> That he is a common haunter of Tavernes, and Ale-houſes, and is often and openly drunke.</p>
+            <p n="9">
+               <hi>9.</hi> That he hath exacted exceſsive Fees, as ten ſhillings for a Christening.</p>
+            <p n="10">
+               <hi>10.</hi> That before he will performe his duty in Burials, and upon other occaſions he will have his lawleſſe and unconſcionable demands ſatiſfied, whereof ſome of the Petitioners have com<g ref="char:EOLhyphen"/>plained to the Dioceſan, but it ſeemes his correction was gentle, for no amendment hath followed.</p>
+            <p n="11">
+               <hi>11.</hi> That he hath demanded and taken for Burials of Pa<g ref="char:EOLhyphen"/>riſhioners, ten and twelve pounds a piece, and hath ſhut, or cauſed to be ſhut up the Church doores, and not ſuffered the ground to be broken for Pariſhioners, untill his undue exactions have been ſa<g ref="char:EOLhyphen"/>tiſfied.</p>
+            <p n="12">
+               <hi>12.</hi> That he hath administred the Communion to a dying woman, when he was ſo drunke, that he forgot the Service, failed in rehearſing the Lords prayer, and at his departure was not able to returne to his place of abode without leading.</p>
+            <p n="13">
+               <hi>13.</hi> That at the ſame time he cauſed all preſent with the ſaid woman to depart the room, and then enjoyned the ſicke party to confeſſe unto him all her ſecret ſinnes.</p>
+            <p n="14">
+               <hi>14.</hi> That being ſo alone with the ſaid woman, he demeaned himſelfe ſo uncivilly, and uſed ſuch unſeemly gestures towards her, that ſhe was fain to cry out for her husband to come in.</p>
+            <p n="15">
+               <hi>15.</hi> That afterwards for performance of this good ſervice about the ſaid woman, he ſent for a Fee of three ſhillings four pence.</p>
+            <p n="16">
+               <hi>16.</hi> That <hi>November 5. 1639.</hi> he would ſuffer no Sermon <pb n="4" facs="tcp:156988:4"/>to be preached, unleſſe out of the Collection for the Poor he might have a Fee of thirteen ſhillings and four pence, but finding the Collection to be ſmall, he took ten ſhillings.</p>
+            <p n="17">
+               <hi>17.</hi> That this last <hi>November 5. 1640.</hi> he would neither preach himſelfe, nor ſuffer any other to preach.</p>
+            <p n="18">
+               <hi>18.</hi> That he and his wife having for many yeares lived aſun<g ref="char:EOLhyphen"/>der with much obloquie, he keepeth company with divers women ſuſpected of incontinency.</p>
+            <p n="19">
+               <hi>19.</hi> That he hath ſince his being Vicar of the ſaid Pariſh much oppoſed the Lecture, which without intermiſsion hath for many yeares been continued in the West end of the ſaid Church, called the Old or Lower Church, (early in the morning on the Lords day) not ſuffering any one to preach the ſame, unleſſe he the ſaid Vicar might have extraordinary hire for permitting of it, <hi>viz.</hi> about fourty pounds at one time, and twenty pounds at another time, and divers other ſummes at other ſeverall times, and at this preſent twenty pounds a year, and yet not contented therewith, he threatens to arrest the preſent Lecturer, unleſſe he may have his unjust demands ſatiſfied.</p>
+            <p n="20">
+               <hi>20.</hi> That he deteineth and keepeth away divers bookes be<g ref="char:EOLhyphen"/>longing and appertaining to the ſaid Church.</p>
+            <p n="21">
+               <hi>21.</hi> That many times in receiving his owne exacted Fees for Burials, he hath alſo received Duties due to the Church wardens for the uſe of the Poor of the ſaid Pariſh, and deteined them to his owne uſe.</p>
+         </div>
+         <div type="proofs">
+            <head>The proofes of ſuch of the foreſaid Articles as were more fully and largely opened in Parliament by ſeverall wit<g ref="char:EOLhyphen"/>neſſes, follow here.</head>
+            <p>TO the firſt Article concerning his frequent and moſt lowly bowing to his Idol-altar, (ſet up by himſelfe and with his owne hands in a moſt proud and inſolent man<g ref="char:EOLhyphen"/>ner) <pb n="5" facs="tcp:156988:4"/>both at his approaches to it, departure from it, and paſſing by it, there was proof much more than enough to to teſtifie and clear it.</p>
+            <p>To the Articles of his exacting unjuſt and exceſſive Fees for Burials; it was proved, that he at one time exacted, would have, and had before hand five pounds for a Sermon, at the Funerall of one Maſter
+<hi>How,</hi> an ancient Pariſhio<g ref="char:EOLhyphen"/>ner; but Maſter <hi>Finch</hi> hearing that there were gloves given to divers, ſent preſently for gloves for himſelfe and his man, juſt about the time that the Corps was going to Church, but becauſe there was none left, he was promiſed to have them the next morning, yet notwithſtanding be<g ref="char:EOLhyphen"/>cauſe he had them not at that preſent, he cauſed the Church doores to be ſhut up, made the Corps and people ſtand a great while in the ſtreet, at laſt letting them into the Church, yet diſappointed them of their Sermon, and yet kept the five pounds to himſelfe, without reſtitution of any part thereof.</p>
+            <p>It was further teſtified by another Pariſhioner who was made Executor to one Maſter <hi>Darneton,</hi> a young man in the Pariſh, who upon his Death-bed deſired that Doctour <hi>Holdſworth</hi> ſhould make his Funerall-Sermon, and to avoid all differences, the Deceaſed very frankly gave M. <hi>Finch</hi> a legacy of fourty ſhillings, and a mourning Gowne, con<g ref="char:EOLhyphen"/>ditionally, that he would give way for Doctour <hi>Holdſworth</hi> to preach, but Maſter <hi>Finch</hi> not content with what the De<g ref="char:EOLhyphen"/>ceaſed left him in his will, he afterward underſtanding that the Doctour had five pounds, and a mourning Gowne left him as a Legacy, and his Legacy was not ſo much; he again ſends for the Executor, and demands of him, what he would give him to let <hi>Holdſworth</hi> preach, as for the fourty <pb n="6" facs="tcp:156988:5"/>ſhillings legacy, that he ſhould not hinder him of, but
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow he came upon new tearmes, to know what he would give him, for he ſaw no reaſon but he ſhould have as much to give way as the other had for preaching, for the Pulpit was his; ſo that he did enforce the Executor to keep the Corps from <hi>Monday</hi> till <hi>Saturday,</hi> before it could be buried, by reaſon of Maſter
+<hi>Finch</hi> his unreaſonable demands, for he told this Executor, and others, that had the like occaſions with Maſter <hi>Finch,</hi> as was then teſtified, <hi>That his Pulpit was his Shop, whereby he got his living, and that he muſt improve his Shop to the utmoſt advantage, as well as they did theirs:</hi> and further ſaying, <hi>That no</hi> Holdſworth <hi>ſhould come into his Pulpit, to eat the bread out of his mouth, for what was</hi> Holdſ<g ref="char:EOLhyphen"/>worth <hi>more than he?</hi> ſo that in concluſion, he did cauſe the ſaid Executor to disburſe, to give him ſatisfaction, to the value of thirteen pounds five ſhillings ſix pence, moſt of it in money, and the reſt in linnen cloth, and notwith<g ref="char:EOLhyphen"/>ſtanding the ſaid Maſter
+<hi>Finch</hi> performed no office at the funerall himſelfe, but ſpent his time in the Taverne at the ſame time, when the funerall was performed: and this was proved to be his uſuall manner, to get his firſt demands fully into his hands, and then by one tricke or another to come over them again for a new ſupply, or elſe there ſhould be no ground broke nor Church-doores opened. Theſe inſtances were thought ſufficient for the proof of this Charge though the Pariſhioners had divers more notorious prankes of his of this kinde, and were then and there ready prepared with witneſſes to have teſtified them all.</p>
+            <p>To the Articles concerning his ſuperſtitious affection to the Surplice and other Popiſh practiſes, it was teſtified (and further could have been proved than was deſired or could by time be permitted) that he uſually preached in his <pb n="7" facs="tcp:156988:5"/>Surplice, wore it when he went about the Pariſh in the annuall perambulation, through the ſtreets, and was ſo Popiſhly affect<g ref="char:EOLhyphen"/>ed and addicted to it, that even ſince his lying under the juſt condemnation of theſe things, he refuſed, on laſt
+<hi>Aſcenſion day,</hi> 1641. to accompany the Pariſhioners in their Perambulation, becauſe they would not ſuffer him to wear the Surplice, and reade the <hi>Epiſtles</hi> and <hi>Goſpels</hi> at the ſtinted places and corners of the ſtreets, as formerly. And that he never read or pronoun<g ref="char:EOLhyphen"/>ced the Name <hi>Ieſus</hi> in either of the <hi>Sacraments, Epiſtles,</hi> or <hi>Go<g ref="char:EOLhyphen"/>ſpels,</hi> or in <hi>Sermons</hi> or
+<hi>Prayers,</hi> (though then on his knees) but he moſt conſtantly ducked lowly at it; and in his Canonicall prayer, before his Homilies, (for all his preaching was conti<g ref="char:EOLhyphen"/>nually a meer reading out of a written book) he familiarly uſed to praiſe God for the Saints departed, but eſpecially for the Virgin
+<hi>Mary</hi> the Mother of God.</p>
+            <p>As for the Article touching his drunkenneſſe, beſides his ac<g ref="char:EOLhyphen"/>cuſtomed practiſe of that beaſtly ſin, at other ordinary times; it was teſtified by very good witneſſe, that hath ſeen him drunke on the Lords day, and at another time, twice drunke in one and the ſame Lords day; firſt in the morning, and then laid to ſleep, and drunke again before night. Alſo another Pariſhioner be<g ref="char:EOLhyphen"/>ing employed to take order for the buriall of a friend of his in the ſaid Pariſh, for which Maſter
+<hi>Finch</hi> (as his cuſtome was) would have his morey before hand, which he accordingly recei<g ref="char:EOLhyphen"/>ved, being 3 pounds, 13. s. upon the payment whereof, the ſaid Pariſhioner demanded on acquittance, but Maſter <hi>Finch</hi> and his man were ſo drunke that they could not write, ſo that the party was fain to call witneſſe that it was paid, and very needfull too, for the next day Maſter <hi>Finch</hi> ſent his man to demand the ſame money again, who anſwered, he had paid it already the day be<g ref="char:EOLhyphen"/>fore, and would not pay it twice. Some few dayes after the Church-wardens came to the Pariſhioner for their Duties, <pb n="8" facs="tcp:156988:6"/>which Maſter <hi>Finch</hi> had received in the former ſum, but Maſter <hi>Finch</hi> would not pay them any.</p>
+            <p>It was further alſo teſtified to full ſatisfaction of the Parlia<g ref="char:EOLhyphen"/>ment, that he was ſo drunke when he was fetcht from a Ta<g ref="char:EOLhyphen"/>verne to give the Sacrament to a dying woman, that he was fain to be led by the arme to the houſe, that there he was not able to pronounce the Lords Prayer, but was out twice or thrice in ſaying it, that he was not able to riſe off from his knees without helpe, nor being up to ſit downe; that he de<g ref="char:EOLhyphen"/>livered the Elements without Conſecration; And alſo deſi<g ref="char:EOLhyphen"/>ring the people to go forth of the room, he came to the dying woman, to whom uſing many unfit geſtures, and ſtroaking her cheekes, he ſaid, <hi>That if ſhe would confeſſe to him all her ſe<g ref="char:EOLhyphen"/>cret ſinnes, then he would love her.</hi> The woman thereupon, cal<g ref="char:EOLhyphen"/>ling out as loud as ſhe could for ſome to come in, they found her much troubled in minde, and unſatisfied, by reaſon of Ma<g ref="char:EOLhyphen"/>ſter
+<hi>Finch</hi> his ill carriage and behaviour, and therefore deſired that the Sacrament might be given her again by ſome other Mi<g ref="char:EOLhyphen"/>niſter, but ſhe died before it was effected; and Maſter <hi>Finch</hi> was fain to be led to the next Alehouſe (as he deſired) where he lay all that night, and the next morning this wretched man was ſo ſhameleſſe, as to ſend for a fee of three ſhillings four pence for that his moſt wicked and abominable ſervice.</p>
+            <p>As for his Sermons on <hi>November</hi> 5 the Popiſh
+<hi>Powder-plot,</hi> it was teſtified alſo, that one year he would permit no Sermon at all. Another year he would permit none unleſſe he might have a ſhare of thirteen ſhillings four pence out of the Col<g ref="char:EOLhyphen"/>lection for the Poor, which being but ſmall, he took ten ſhil<g ref="char:EOLhyphen"/>lings for his owne uſe. Another year he preacht himſelfe, and in his Sermon (as it was fully proved) he ſaid words to this effect, <hi>That the Plotters in that buſineſſe were but a few male content perſons, and that they deſired at their death, that this Act might be forgot<g ref="char:EOLhyphen"/>ten, <pb n="9" facs="tcp:156988:6"/>and he thanked God it was ſo almoſt, and he hoped it would be quite forgotten.</hi>
+            </p>
+            <p>It was alſo teſtified that for the Sermons at ſeven of the clocke, on Sabbath day mornings in the Lower Church, he had of the Pariſh fourty pounds to let Maſter <hi>Davis</hi> come in, and about fifty five pounds when Maſter <hi>Brocket</hi> came in, be<g ref="char:EOLhyphen"/>ſides other ſummes at other times.</p>
+            <p>To the Article touching his incontinency, it was teſtified by the Coachman that carried him and two others of his de<g ref="char:EOLhyphen"/>boiſt Comrades of his owne Coat and condition, together with three women to <hi>Hamerſmith,</hi> where being arrived in an houſe fit for their intentions, every one choſe his woman, and Maſter <hi>Finch</hi> his mate (as the witneſſe delivered it) being the fatteſt of the three, and this Coachman being called up into the room unto them, ſaw them all uſe theſe women, in his pre<g ref="char:EOLhyphen"/>ſence, with moſt vile and obſcene geſtures, upon beds, even to the utmoſt of what hands could do under their clothes, but far<g ref="char:EOLhyphen"/>ther he could not teſtifie, for they had time enough in his ab<g ref="char:EOLhyphen"/>ſence; but bringing them backe again late into <hi>London,</hi> he ſet them downe at <hi>Newgate,</hi> where he left them altogether plot<g ref="char:EOLhyphen"/>ting what excuſe the women ſhould uſe to their husbands, and it was reſolved, that one muſt ſay, ſhe had been at a womans la<g ref="char:EOLhyphen"/>bour, another had been to ſee a friend that was ſicke, &amp;c.</p>
+            <p>It was alſo teſtified, that he was a conſtant frequenter of the company of two mens wives, after a moſt familiar manner, both in City and Countrey journies, namely one Miſtris <hi>Valentine</hi> at the
+<hi>Chequer</hi> at <hi>Dowgate,</hi> and one Miſtris <hi>Stevenſon</hi> at
+<hi>Chriſts Hoſpitall,</hi> and that he alone was ſeen at <hi>Barnet</hi> In their two com<g ref="char:EOLhyphen"/>panies onely, comming out of an Inne in a Coach. Alſo that one night, Maſter <hi>Finch</hi> his wife (from whom he hath wilfully lived apart theſe ſeven yeares, whoſe company he could not abide) comming to the ſaid <hi>Stevenſons</hi> houſe in <hi>Christs Hoſpitall</hi>
+               <pb n="10" facs="tcp:156988:7"/>a foreſaid (where alſo was his frequent rendevous day and night) to aske her husband for ſome maintenance for her ſelfe and chil<g ref="char:EOLhyphen"/>dren, he moſt furiouſly and deſperately drew his knife at her, whereat ſhe ran out of the houſe, and he after her with his knife in his hand, but ſhe having recovered the Cloiſter, he, it ſeemes, beat her downe forward, threw his knife at her, and there ſhe was found on the ground, crying out for helpe, her hat beaten off from her head, and her hair all about her eares; whereat, he running in again, ſhe was forced thus to depart for the pre<g ref="char:EOLhyphen"/>ſent.</p>
+            <p>It was alſo teſtified, that a Kinſwoman of Miſtris
+<hi>Valen<g ref="char:EOLhyphen"/>tines</hi> comming to ſee her at the Chequer aforeſaid, and M.
+<hi>Finch</hi> being there came to her, uſed many flattering words and com<g ref="char:EOLhyphen"/>plements to her, and taking her at advantage, in a private room, perſwaded her to lie with him, which ſhe refuſing, he ſtill per<g ref="char:EOLhyphen"/>ſiſted in this his wicked and luſtfull deſire, and at laſt ſhewed her what was moſt ſhamefull to be ſeen or ſpoken of, and would by violence have had the uſe of her body, which ſhe ſtill vehe<g ref="char:EOLhyphen"/>mently refuſing, and he perceiving that ſhe would call out for helpe againſt him (as ſhe told him ſhe would, if he would not forbear) he opened the door and called for a Chamber-pot, by which meanes the door being opened, ſhe ran out from him, and comming out of the room, he affirmed and ſwore to Miſtris
+<hi>Valentine, That this Puritan ſlut he could not convert her.</hi> About two yeares after this alſo, the ſaid party going again to ſee her kinſwoman Miſtris <hi>Valentine,</hi> there ſhe met Maſter
+<hi>Finch</hi> a<g ref="char:EOLhyphen"/>gain, who after many flattering complements, told her that if ſhe would love him, he would make her a Lady; and Miſtris
+<hi>Va<g ref="char:EOLhyphen"/>lentine</hi> her good Couſin ſaid thereupon to her, That he might well do it, for he was very likely to be made a Biſhop: this was teſtified by the ſaid Kinſwoman her ſelfe publikely in the <hi>Houſe of Commons,</hi> to the great admiration of all then preſent that heard it.</p>
+            <pb n="11" facs="tcp:156988:7"/>
+            <p>It was further teſtified againſt him, that being in company he ſhould affirme and ſay, <hi>This point of Doctrine, I have preacht and will preach it, and that to all eterntty, that that man which hath a handſom woman to his wife, and he were jealous without a cauſe, that it was lawfull for her to make him a Cuckold, and rather than be ſhould not be made one, he would ride an hundred miles to do it him ſelfe.</hi>
+            </p>
+            <p>It was alſo teſtified by another Pariſhioner that he frequent<g ref="char:EOLhyphen"/>ed an houſe in <hi>Chriſts Church</hi> Pariſh, where two Siſters lived, married women, both very comely for perſon, but not without great cauſe ſtrongly ſuſpected of incontinency; who for their misbehaviours were forced to ſhift their dwelling from Pariſh to Pariſh. And one of theſe women dying a while after in an<g ref="char:EOLhyphen"/>other Pariſh, ſhe was ſo rotten with the foul diſeaſe, and loath<g ref="char:EOLhyphen"/>ſom, that every one that knew thereof was afraid to come nigh her; and ſhe her ſelfe was not aſhamed to tell thereof. And (it is reported) that when ſhe was coffened, her necke was ſo rotten and periſhed with the ſaid diſeaſe, that her head fell off from her body.</p>
+            <p>It was yet farther teſtified by the Porter of <hi>Christs Hoſpitall,</hi> that in the time of Maſter <hi>Finch</hi> his lying at Maſter <hi>Steven<g ref="char:EOLhyphen"/>ſons</hi> houſe, as aforeſaid, the ſaid Porter by his office attend<g ref="char:EOLhyphen"/>ing the gates of the <hi>Hoſpitall,</hi> obſerved Maſter <hi>Finch</hi> moſt fre<g ref="char:EOLhyphen"/>quently to go out and come in, at very unſeaſonable houres in the night with the ſaid Maſter
+<hi>Stevenſons</hi> wife, which the Porter had divers times told Maſter
+<hi>Stevenſon</hi> himſelfe of, fairly and privately, but no amendment following, and the Porter ſtill being diſquieted, to let in Maſter
+<hi>Finch, &amp;c.</hi> to Maſter <hi>Steve<g ref="char:EOLhyphen"/>ſons</hi> houſe, one night after, or rather morning, about 2. or 3. of the clocke, he and Miſtris
+<hi>Stevenſon</hi> comming in, and the Porter thereby much diſcontented to riſe out of his bed at ſuch houres, he began to wrangle and grumble, whereupon words paſſing be<g ref="char:EOLhyphen"/>tween <pb n="12" facs="tcp:156988:8"/>them, and Maſter
+<hi>Finch</hi> in his ſweet-hearts company eſpecially, impatient to bear them, fell very foul on the ſaid Porter, abuſed him in tearmes, caught him by his beard (which he wore very broad and long, almoſt downe to his girdle) and by violence and rage pulled agreat piece off his beard from his chin, whereupon the Porter had him before Sir <hi>Martin Lumley,</hi> then one of the City Juſtices, to binde Maſter <hi>Finch</hi> to his good behaviour, which he was never able to do, nor any elſe, as yet.</p>
+            <p>Theſe and many mo ſuch like foul and ſcandalous things have been moſt plenteouſly proved againſt the ſaid Maſter <hi>Finch:</hi> and after all, it being demanded what anſwer he could make for all theſe things, he deſired ſome time to make anſwer, and to plead by Counſell, but it was replied, Theſe things were mat<g ref="char:EOLhyphen"/>ters of fact, and not of Law; and therefore he knew at preſent whether they were true or no: but he being ſilent, command was to withdraw; ſome other witneſſes were heard alſo, which ſpake to the ſame effect, which for brevity ſake we omit, for if we ſhould preſent you with all his extorted exactions for Buri<g ref="char:EOLhyphen"/>als and Baptizings and other particular enormities of his life, it would fill a volume, for almoſt every one he had to deal with in theſe kindes, in the Pariſh, hath experience what an heavy burden he hath been to the Pariſh.</p>
+            <p>The whole <hi>Grand Committee</hi> for Religion receiving abundant ſat is faction in the truth hereof, and all the reſt of the Articles forementioned, accordingly proceeded to an unanimous Vote of his graceleſſe and palpable guilt in them all, and he now lies under the juſt cenſure of the <hi>Houſe:</hi> yet (ſtrange to be ſpoken) this moſt impious and impudent men, like a right athe<g ref="char:EOLhyphen"/>iſticall ſon of <hi>Belial,</hi> puts on a whores forehead to this day, carries himſelfe moſt proudly and inſolently (as ever before) amongſt the Pariſhioners, officiates when he liſts, in his owne ſhameleſſe perſon, being ſtill very vexatious to them; yea,
+<pb n="13" facs="tcp:156988:8"/>committing many of the foreſaid condemned Superſtitions, wicked and drunken practiſes afreſh, without any bluſhing or the leaſt ſigne of relenting: in this caſe much worſe than wic<g ref="char:EOLhyphen"/>ked <hi>Achab,</hi> who though he had ſold himſelfe to worke wicked<g ref="char:EOLhyphen"/>neſſe, as the Scripture ſayes, yet when the hand of God was on him, and a judgement threatned againſt him, 'tis ſaid, he hum<g ref="char:EOLhyphen"/>bled himſelfe before the Lord: but this moſt wicked and ungod<g ref="char:EOLhyphen"/>ly man, quite void of grace, yea, of common civility, like his brazen-fac'd mother of <hi>Rome,</hi> (one of whoſe bold brats he in heart and practiſe alſo, in a great meaſure ſhewes himſelfe) carries about with him an unbluſhing whores forehead, and jets up and downe with ſtrange arrogancy.</p>
+            <p>And indeed his moſt unbridled pride hath principally oc<g ref="char:EOLhyphen"/>caſioned the publication of theſe his ſo foul and enormous carriages, and if he be not quite paſt ſhame, it may ſerve a little to pull downe his plumes, and tame his inſolencies. For as yet, like wicked, yet fooliſh
+<hi>Agag,</hi> he falſly perſwades himfelfe, that the bitterneſſe of ſorrow or ſmart is paſt and gone. But I truſt the Lord will in mercy to his poor and too-too long abuſed Church, ariſe by our Honourable Worthies in Parliament, and have mercy on <hi>Sion,</hi> in the ruine of all her impious and implacable enemies, and all thoſe rotten-hearted, ſcandalous
+<hi>Baals</hi> Prieſts, and pay them home the juſt wages of their inſufferable iniquities and impieties, who have moſt mi<g ref="char:EOLhyphen"/>ſerably overſpread, and almoſt quite poyſoned the whole King<g ref="char:EOLhyphen"/>dom with their Popiſh and prophane abominations; of whom and their juſt reward the Lord himſelfe complaines, and teſti<g ref="char:EOLhyphen"/>fies againſt them by the Prophet,
+<hi>Ier.</hi> 23.9. <hi>My heart breaketh within me, becauſe of the Prophets all my bones ſhake, &amp;c.</hi> Which may (by lamentable experience to this Kingdom) be properly applied to our wicked Prelates, and their ſcandalous and idola<g ref="char:EOLhyphen"/>trous Prieſts; for when ſuch men as theſe have been winkt at,
+<pb n="14" facs="tcp:156988:9"/>nay, countenanced; and on the other hand, ſuch a number of able, heavenly, ſoul-directing Teachers, for a few indifferent Ceremonies (as the impoſers themſelves acknowledged they were) ſhall be ſuſpended, cenſured, fined, impriſoned, baniſh<g ref="char:EOLhyphen"/>ed, undone, &amp;c. as if power were put into their hands, onely, to pull downe the Throne of Chriſt, and to advance the King<g ref="char:EOLhyphen"/>dom of Satan.</p>
+            <p>And who they are, that have been the great Engineers to hin<g ref="char:EOLhyphen"/>der the flouriſhing of the Goſpel in <hi>England,</hi> (whatſoever their flouriſhing pretences have been) or if ever it poſſibly can flou<g ref="char:EOLhyphen"/>riſh ſo long as ſuch ſtand, let wiſdom judge, <hi>Ierem.</hi> 23.10, 11.
+<hi>For the Land is full of Adulterers, and becauſe of ſwearing the Land mournes, the pleaſant places are dried up, and their courſe is evill, and their force is not right. For, both the Prophet and the Priest are prophane; yea, in mine houſe have I found their wicked<g ref="char:EOLhyphen"/>neſſe, ſaith the Lord.</hi> And again, <hi>verſe</hi> 14, 15. <hi>I have ſeen alſo, in the Prophets of Icruſalem, an horrible thing; They commit Adulte<g ref="char:EOLhyphen"/>ry, and walke in lies; They ſtrengthen alſo the hands of evill doers, ſo that none can returne from his wickedneſſe: For from the Prophets of Ieruſalem, is wickedneſſe gone forth into all the Land. They are all of them unto me as So dome and the inhabitants thereof as Gomorah. Therefore, thus ſaith the Lord of Hoſts concerning the Prophets; Be<g ref="char:EOLhyphen"/>hold, I will feed them with Wormewood, and make them drink the wa<g ref="char:EOLhyphen"/>ter of gall &amp;c.</hi>
+            </p>
+            <p>
+               <hi>O Lord, to whom vengeance belongeth; O God to whom vengt<g ref="char:EOLhyphen"/>ance belongeth; Lift up thy ſelfe, thou Iudge of the Earth, and render a reward to the proud. But do good, O Lord, in thy good pleaſure unto Sion, and build thou again the wals of Iera<g ref="char:EOLhyphen"/>ſalem. Amen, Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
